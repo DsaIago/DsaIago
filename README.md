@@ -18,9 +18,11 @@
 💻 Desenvolvedor com 2 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
 ### Sobre:
-Sou um estudante de ADS com sólidos conhecimentos em algoritmos e lógica de programação, apaixonado por essa área fascinante. Possuo experiência em Front-end e estou constantemente aprimorando minhas habilidades em Front end.
-
-Minha capacidade de aprendizado é notável, e sou comprometido com a busca pela excelência. Minha abordagem para alcançar metas é ágil e direta, e estou sempre refinando minha proatividade e concentração.
+Desenvolvedor Front-End com experiência na criação de interfaces modernas e responsivas 
+utilizando Vue.js, Nuxt3 e TypeScript. Compromissado por entregar código limpo e 
+escalável, garantindo a melhor experiência do usuário. Possuo conhecimento sólido em 
+automação de processos com Python e integração com APIs. Sempre buscando aprimorar 
+habilidades e contribuir para soluções inovadoras no desenvolvimento web. 
 
 Estou em busca de oportunidades para aplicar meu conhecimento e habilidades em um ambiente desafiador.
 Se você procura alguém com paixão pela tecnologia e pela resolução de problemas, estou pronto para contribuir.
